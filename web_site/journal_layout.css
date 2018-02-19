@@ -1,0 +1,68 @@
+.boxes{
+	border:5px solid purple;
+}
+#body{
+	background-color:white;
+	border:10px solid white;
+	margin-right: 10%;
+	margin-left: 10%;
+}
+	
+#head{
+	background-color: #A8F0F0;
+	text-align: right;
+}
+#head h2{
+	font-size:14pt;
+}
+#spatulas{
+	border:4px solid #C2E9E9;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin: 10px 0px 0px 0px;
+	overflow: hidden;
+
+}
+#spatulas>p>img{
+	float:right;
+
+}
+
+.date{
+border-width:0px 0px 2px 0px;
+border-bottom-style: dashed;
+border-bottom-color: blue;
+
+}
+#cookies{
+	border:4px solid #C2E9E9;
+	background-color: #E8FBFB;
+	overflow:hidden;
+
+	
+}
+main{
+overflow: hidden;
+}
+#cookies>p>img{
+	float:right;
+}
+body{
+	
+	background-image:url("images/wallpaper.jpeg");
+	background-repeat: repeat-y repeat-x;
+
+}
+#friend{
+	float:left;
+	width:200px;
+	background-color: #E8FBFB;
+	border:5px solid blue;
+	margin:5px;
+	padding:5px;
+
+}
+h1:hover,h2:hover,h3:hover,p:hover,a:hover,img:hover{
+	background-color:yellow;
+}
+
